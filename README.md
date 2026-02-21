@@ -4,6 +4,19 @@ This repository contains coding exercises for the course 401-4634-24L [Computati
 
 ### Get started
 
+### Dependencies
+It requires:
+- Python (>= 3.10)
+- NumPy (>= 1.20)
+- PyTorch (>= 2.10.0)
+
+see https://pytorch.org/get-started/locally/ on how to install PyTorch locally
+
+This repo contains 4 exercises:
+1. Simulate diffusion process, especially Langevin dynamics
+2. Score-matching and score-based diffusion models
+3. TBD
+4. TBD
 
 ### Acknowledgement
 This repository contains code/materials that were adapted from other courses. 

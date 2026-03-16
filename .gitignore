@@ -2,6 +2,7 @@ LectureSimulation/*
 tmp/
 *.DS_Store
 */.ipynb_checkpoints/*
+*.pyc
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof

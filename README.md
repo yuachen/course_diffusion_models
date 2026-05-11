@@ -15,7 +15,7 @@ see https://pytorch.org/get-started/locally/ on how to install PyTorch locally
 This repo contains 4 exercises:
 1. Simulate diffusion process, especially Langevin dynamics
 2. Score-matching and score-based diffusion models by reversing OU
-3. TBD
+3. U-Net score estimation and sampling MNIST digit images
 4. TBD
 
 ### Acknowledgement
